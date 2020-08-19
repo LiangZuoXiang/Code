@@ -1,0 +1,2487 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Siger.Middlelayer.TlmRepository</name>
+    </assembly>
+    <members>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.OrderNumber">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Seq">
+            <summary>
+            检测编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Type">
+            <summary>
+            检测类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Tools">
+            <summary>
+            检测工具
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.StandardValues">
+            <summary>
+            标准值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Max">
+            <summary>
+            上限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.Mini">
+            <summary>
+            下限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.ToolId">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.ActualValue">
+            <summary>
+            检测值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionDetailEntity.result">
+            <summary>
+            结果1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Seq">
+            <summary>
+            检测编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Type">
+            <summary>
+            检测类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Tools">
+            <summary>
+            检测工具
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.StandardValues">
+            <summary>
+            标准值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Max">
+            <summary>
+            上限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.Mini">
+            <summary>
+            下限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.ToolId">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionEntity.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.ToolId">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.StockId">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.State">
+            <summary>
+            状态1待检测2检测完成3待测试4测试完成
+            1和2检测
+            3和4测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.OrderNumber">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.result">
+            <summary>
+            结果1合格0不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.inspector">
+            <summary>
+            检测人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.inspect_time">
+            <summary>
+            检测时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.serial_number">
+            <summary>
+            wms_stock序号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionRecordEntity.manage_model">
+            <summary>
+            物料管理模式
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.order_number">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeDetectionReturnEntity.reason">
+            <summary>
+            退货原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.EditTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Datetime">
+            <summary>
+            日期
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Changer">
+            <summary>
+            换刀人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.BlankCode">
+            <summary>
+            毛坯批号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.JigLocation">
+            <summary>
+            夹具位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.CoolantTemperature">
+            <summary>
+            冷却液温度
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.DefectLocation">
+            <summary>
+            缺陷位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Reason">
+            <summary>
+            可能原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.Shift">
+            <summary>
+            班次
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ProductModel">
+            <summary>
+            产品型号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.MachineId">
+            <summary>
+            设备id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.CoolantConcentration">
+            <summary>
+            冷却液浓度
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ToolNumber">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ToollifeRest">
+            <summary>
+            刀具剩余寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.StandardSize">
+            <summary>
+            标准尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.OtherQuestion">
+            <summary>
+            其他问题
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ProductionBatchNumber">
+            <summary>
+            生产批号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.JigTower">
+            <summary>
+            夹具塔号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.CoolantPressure">
+            <summary>
+            冷却液压力
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ToolLocation">
+            <summary>
+            刀位主轴编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.DetectivePartsCount">
+            <summary>
+            缺陷零件数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ActualSize">
+            <summary>
+            实际尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ToolBatchNumber">
+            <summary>
+            刀具批次
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.RepairMoldCount">
+            <summary>
+            修模次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.DynamicBalanceResult">
+            <summary>
+            动平衡结果
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.TechnicalReason">
+            <summary>
+            技术员原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.MeasuredSize">
+            <summary>
+            实测尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.OrderNumber">
+            <summary>
+            异常问题单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeExpectionEntity.ToolStandardLife">
+            <summary>
+            刀具标准寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.ToolId">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Result">
+            <summary>
+            结果1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.MachineId">
+            <summary>
+            设备id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.Location">
+            <summary>
+            刀位号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeTestEntity.OrderNumber">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.Code">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.ToolId1">
+            <summary>
+            刀头id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.ToolId2">
+            <summary>
+            刀头id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.HandleId1">
+            <summary>
+            刀柄id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.HandleId2">
+            <summary>
+            刀柄id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.AttachmentId1">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.AttachmentId2">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.CutId1">
+            <summary>
+            刀片id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.CutId2">
+            <summary>
+            刀片id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.CutId3">
+            <summary>
+            刀片id3
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.ProjectToollifeToolConfigEntity.CutId4">
+            <summary>
+            刀片id4
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig">
+            <summary>
+            刀具柜配置表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Suppliercode">
+            <summary>
+            供应商编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Cabinetcode">
+            <summary>
+            柜编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Suppliername">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Pickapi">
+            <summary>
+            领料单接口地址
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetConfig.Inventoryapi">
+            <summary>
+            库存查询地址
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive">
+            <summary>
+            刀具柜领用记录
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Billcode">
+            <summary>
+            单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Usercode">
+            <summary>
+            工号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Cabinetcode">
+            <summary>
+            柜编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Transtime">
+            <summary>
+            领用时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Type">
+            <summary>
+            领用类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Settletime">
+            <summary>
+            结算时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceive.Uid">
+            <summary>
+            结算人ID
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail">
+            <summary>
+            刀具柜领用明细
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Inventoryid">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Name">
+            <summary>
+            品名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Count">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Type">
+            <summary>
+            规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Mid">
+            <summary>
+            主表ID
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Price">
+            <summary>
+            价格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.SigerProjectToollifeCabinetReceiveDetail.Supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_category">
+            <summary>
+            刀具刀柄附件类型表
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_category_parameter">
+            <summary>
+            刀具刀柄附件类型表
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature">
+            <summary>
+            刀具测量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature.cutter_number">
+            <summary>
+            刀位号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature.handler_number">
+            <summary>
+            刀位号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature.handler_code">
+            <summary>
+            刀柄二维码
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature.actual_diameter">
+            <summary>
+            实际直径
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_meature.actual_length">
+            <summary>
+            实际刀长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.location">
+            <summary>
+            位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.assemble_code">
+            <summary>
+            组装的刀柄编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.code">
+            <summary>
+            组装条码，序列号或者序号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.boom_code">
+            <summary>
+            boom刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.confirm_status">
+            <summary>
+            是否确认
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.create_id">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.measure_status">
+            <summary>
+            测量状态
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.actual_diameter">
+            <summary>
+            实际直径
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_package.actual_length">
+            <summary>
+            实际刀长
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology">
+            <summary>
+            工艺表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.product_id">
+            <summary>
+            产品id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.machine_type">
+            <summary>
+            设备id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.route_id">
+            <summary>
+            工序Id,siger_project_product_route.id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.program">
+            <summary>
+            程序号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.create_id">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_technology.drawcode">
+            <summary>
+            零件图纸号
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool">
+            <summary>
+            刀具清单表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.cutter_number">
+            <summary>
+            刀位号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.tool_model">
+            <summary>
+            刀具规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.handle_model">
+            <summary>
+            刀柄规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.flute_length">
+            <summary>
+            刃长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.flute_count">
+            <summary>
+            刃数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.down_length">
+            <summary>
+            首下长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.reach_length">
+            <summary>
+            伸出长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.upper_tolerance">
+            <summary>
+            上公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.down_tolerance">
+            <summary>
+            下公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.brand">
+            <summary>
+            品牌
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.technology_id">
+            <summary>
+            工艺单id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.part_no">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.quantity">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.rated_life">
+            <summary>
+            额定寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tech_tool.tool_code">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool">
+            <summary>
+            刀具刀柄附件表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.number">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.category_id">
+            <summary>
+            类别id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.category_name">
+            <summary>
+            类别名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.part_no">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.tool_status">
+            <summary>
+            刀具当前状态
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.grind">
+            <summary>
+            是否修磨 1是 2不是
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.grind_times">
+            <summary>
+            修磨次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.grind_type">
+            <summary>
+            修磨方式 1自主修磨 2外协修磨
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.use_times">
+            <summary>
+            使用次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool.need_test">
+            <summary>
+            1需要测试2不需要测试
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_choice">
+            <summary>
+            刀具选择表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_choice.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_choice.choice_status">
+            <summary>
+            刀具选择状态
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_choice.quantity">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_choice_summary">
+            <summary>
+            刀具选择表汇总表
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind">
+            <summary>
+            刀具修磨表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind.remain_times">
+            <summary>
+            剩余次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind.recycling_time">
+            <summary>
+            回收时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind.grind_time">
+            <summary>
+            修磨时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind.apply_time">
+            <summary>
+            修磨申请时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_grind.source_type">
+            <summary>
+            来源类型 0 其他，1 本表 2 更换归还表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_install.uninstall_reason">
+            <summary>
+            卸载原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_install.lastLife">
+            <summary>
+            剩余寿命，暂时不用
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_install.process_count">
+            <summary>
+            加工数量
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_parameter">
+            <summary>
+            刀具刀柄附件参数表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_parameter.tool_id">
+            <summary>
+            刀具id
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return">
+            <summary>
+            更换归还表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.workorder_id">
+            <summary>
+            工单id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.workorder_code">
+            <summary>
+            工单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.material_id">
+            <summary>
+            物料id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.part_no">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.quantity">
+            <summary>
+            领用数量/归还数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.operate_mid">
+            <summary>
+            操作人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.operate_time">
+            <summary>
+            操作时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_replace_return.operate_type">
+            <summary>
+            操作类型 1更换 2归还 3领用
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap">
+            <summary>
+            刀具报废表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap.review_mid">
+            <summary>
+            审核人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap.review_time">
+            <summary>
+            审核时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap.review_remark">
+            <summary>
+            审核备注
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap.reason">
+            <summary>
+            换刀原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_tool_scrap.source_type">
+            <summary>
+            来源类型 0 其他，1 本表 2 更换归还表
+            </summary>
+        </member>
+        <member name="T:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder">
+            <summary>
+            工单表
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.workorder_code">
+            <summary>
+            工单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.technology_id">
+            <summary>
+            工艺单id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.count">
+            <summary>
+            需求个数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.need_time">
+            <summary>
+            需求时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.operator_id">
+            <summary>
+            操作人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.order_status">
+            <summary>
+            工单状态
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Entities.siger_project_toollife_workorder.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="M:Siger.Middlelayer.TlmRepository.Repositories.TlmRepositoryBase`1.GetSuppliersByPartNo(System.Int32,System.String,System.Int32)">
+            <summary>
+            根据物料获取物料供应商
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Siger.Middlelayer.TlmRepository.Repositories.ToolReplaceReturnRepository.SubtractStockChange(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            库存汇总-减少数量
+            </summary>
+            <param name="storage"></param>
+            <param name="inventoryid"></param>
+            <param name="count"></param>
+            <param name="projectid"></param>
+        </member>
+        <member name="M:Siger.Middlelayer.TlmRepository.Repositories.ToolLifeToolInstallRepository.GetToolUseData(System.String,System.DateTime,System.DateTime,System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            获取刀具使用信息
+            </summary>
+            <param name="code">道具号</param>
+            <param name="startTime">安装开始时间</param>
+            <param name="endTime">安装结束时间</param>
+            <param name="uid">安装人</param>
+            <param name="pid"></param>
+            <param name="page"></param>
+            <param name="pageSize"></param>
+            <param name="materialcode">料号</param>
+            <param name="supplier">供应商</param>
+            <param name="toolname">刀具名</param>
+            <returns></returns>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.SubmitChoice.count">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddPackage.handler_code">
+            <summary>
+            刀柄号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddPackage.batch_number">
+            <summary>
+            刀具批次号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddTechTool.tool_code">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.Seq">
+            <summary>
+            检测编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.Type">
+            <summary>
+            检测类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.Tools">
+            <summary>
+            检测工具
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.StandardValues">
+            <summary>
+            标准值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.Max">
+            <summary>
+            上限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.Mini">
+            <summary>
+            下限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetDetection.ToolId">
+            <summary>
+            刀具id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.type">
+            <summary>
+            1. 刀具 2. 刀柄 3. 附件 4. 刀头
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.toolid">
+            <summary>
+            刀具id ,为空时为添加
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.grind">
+            <summary>
+            是否修磨 1是 2不是
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.grind_times">
+            <summary>
+            修磨次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.grind_type">
+            <summary>
+            修磨方式 1自主修磨 2外协修磨
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.use_times">
+            <summary>
+            使用次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestAddToolInfo.need_test">
+            <summary>
+            1需要测试2不需要测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.AuditToolScrap.status">
+            <summary>
+            2审核通过 3 审核未通过
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetection.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionDetail.OrderNumber">
+            <summary>
+            检查单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionDetail.OrderNumbers">
+            <summary>
+            检查单号(数组)
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestHandleDetectionDetail.data">
+            <summary>
+            检查单号(数组)
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestHandleDetectionDetail.state">
+            <summary>
+            状态2检测完成4测试完成0退货
+            1和2检测
+            3和4测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestDetectionDetail.OrderNumber">
+            <summary>
+            检测单
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestDetectionDetail.to">
+            <summary>
+            入库位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestDetectionDetail.reason">
+            <summary>
+            原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.state">
+            <summary>
+            状态1待检测2检测完成3待测试4测试完成
+            1和2检测
+            3和4测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.states">
+            <summary>
+            状态请用,隔开(不支持0退货)
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.tool_number">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.tool_name">
+            <summary>
+            刀具名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.tool_type">
+            <summary>
+            刀具类别
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.inspect_start">
+            <summary>
+            检测起始时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.inspect_end">
+            <summary>
+            检测结束时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.need_test">
+            <summary>
+            是否需要测试1需要测试2不需要测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.result">
+            <summary>
+            检测状态2不通过1合格0未测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeDetectionRecord.testResult">
+            <summary>
+            测试状态2不通过1合格0未测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.order_number">
+            <summary>
+            问题单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.machineid">
+            <summary>
+            设备
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.mid">
+            <summary>
+            更新人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.tool_number">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.start">
+            <summary>
+            起始时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeExpection.end">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestProjectToollifeToolConfig.code">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.Code">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.ToolId1">
+            <summary>
+            刀头id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.ToolId2">
+            <summary>
+            刀头id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.HandleId1">
+            <summary>
+            刀柄id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.HandleId2">
+            <summary>
+            刀柄id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.AttachmentId1">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.AttachmentId2">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.CutId1">
+            <summary>
+            刀片id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.CutId2">
+            <summary>
+            刀片id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.CutId3">
+            <summary>
+            刀片id3
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeToolConfig.CutId4">
+            <summary>
+            刀片id4
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.OrderNumber">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.Seq">
+            <summary>
+            检测编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.Type">
+            <summary>
+            检测类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.Tools">
+            <summary>
+            检测工具
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.StandardValues">
+            <summary>
+            标准值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.Max">
+            <summary>
+            上限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.Mini">
+            <summary>
+            下限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.ToolId">
+            <summary>
+            刀具id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestSetToollifeDetectionRecord.ActualValue">
+            <summary>
+            检测值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestTooTest.result">
+            <summary>
+            结果1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestTooTest.machinecode">
+            <summary>
+            设备code
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Request.RequestTooTest.knifePosition">
+            <summary>
+            刀位（暂时不用）
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Billcode">
+            <summary>
+            单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Usercode">
+            <summary>
+            工号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Username">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.CabinetName">
+            <summary>
+            柜名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Cabinetcode">
+            <summary>
+            柜名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Transtime">
+            <summary>
+            领用时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Type">
+            <summary>
+            领用类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Settletime">
+            <summary>
+            结算时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.SettleUser">
+            <summary>
+            结算人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeCabinetReceiveData.Supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetMaterials.name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetMaterials.part_no">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.part_no">
+            <summary>
+            物料料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.material_name">
+            <summary>
+            物料名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.supplier_id">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.position">
+            <summary>
+            位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.quantity">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceMaterials.collar_use">
+            <summary>
+            领用数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolStockMaterials.serial_number">
+            <summary>
+            序号/批次号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.number">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.category_id">
+            <summary>
+            类别id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.category_name">
+            <summary>
+            类别名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.part_no">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.grind">
+            <summary>
+            是否修磨 1是 2不是
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.grind_times">
+            <summary>
+            修磨次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.grind_type">
+            <summary>
+            修磨方式 1自主修磨 2外协修磨
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.use_times">
+            <summary>
+            使用次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeGetToolItem.need_test">
+            <summary>
+            1需要测试2不需要测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ToolItemInfo.name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ToolItemInfo.number">
+            <summary>
+            编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ToolItemInfo.category_id">
+            <summary>
+            类别id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMaterialInfos.grind">
+            <summary>
+            是否可修磨
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.location">
+            <summary>
+            库位名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.storage_location_id">
+            <summary>
+            储位
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.storageid">
+            <summary>
+            仓库
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.category_name">
+            <summary>
+            类别
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.supplier_name">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.material_name">
+            <summary>
+            物料名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.part_no">
+            <summary>
+            料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.state">
+            <summary>
+            状态1待检测2检测完成3待测试4测试完成
+            1和2检测
+            3和4测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.need_test">
+            <summary>
+            1需要测试2不需要测试
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.OrderNumber">
+            <summary>
+            检测单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.tool_number">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.tool_name">
+            <summary>
+            刀具名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.inspector">
+            <summary>
+            检测人mid
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.inspector_name">
+            <summary>
+            检测人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.inspect_time">
+            <summary>
+            检测时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.result">
+            <summary>
+            结果0未测试1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.test_result">
+            <summary>
+            结果0未测试1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.reason">
+            <summary>
+            退货原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.return_time">
+            <summary>
+            退货时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionRecord.serial_number">
+            <summary>
+            wms唯一编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.Type">
+            <summary>
+            检测类型
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.Tools">
+            <summary>
+            检测工具
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.StandardValues">
+            <summary>
+            标准值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.Max">
+            <summary>
+            上限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.Mini">
+            <summary>
+            下限
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.ToolId">
+            <summary>
+            刀具编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.ToolType">
+            <summary>
+            配置类型1刀具2刀柄3附件
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.ActualValue">
+            <summary>
+            检测值
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.result">
+            <summary>
+            结果1合格2不合格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponeToollifeDetectionDetail.location">
+            <summary>
+            库位名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetInstall.instllPosz">
+            <summary>
+            应该安装的刀位
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolUseData.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolUseData.Position">
+            <summary>
+            刀位号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolUseData.ProcessCount">
+            <summary>
+            加工件数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolProcessData.Broken">
+            <summary>
+            断刀
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolProcessData.Collapse">
+            <summary>
+            磨损
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolProcessData.Damage">
+            <summary>
+            崩刃
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.InstllInfo.ProcessCount">
+            <summary>
+            加工件数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetRecieveInfo.quantity">
+            <summary>
+            库存数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetRecieveInfo.IsSerial">
+            <summary>
+            是否是序号1 是 0不是
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetStockFromWms.category">
+            <summary>
+            品名、规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetStockFromWms.supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetStockFromWms.stock_num">
+            <summary>
+            库存数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetStockFromWms.warehose">
+            <summary>
+            仓库名
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechCondition.drawcode">
+            <summary>
+            零件图纸号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.route">
+            <summary>
+            工序名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.program">
+            <summary>
+            程序号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.create_name">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.create_time">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechnologys.drawcode">
+            <summary>
+            零件图纸号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.drawcode">
+            <summary>
+            零件图纸号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.tool_model">
+            <summary>
+            刀具规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.handle_model">
+            <summary>
+            刀柄规格
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.tool_modelName">
+            <summary>
+            刀具规格名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.handle_modelName">
+            <summary>
+            刀柄规格名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.flute_length">
+            <summary>
+            刃长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.flute_count">
+            <summary>
+            刃数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.down_length">
+            <summary>
+            首下长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.reach_length">
+            <summary>
+            伸出长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.upper_tolerance">
+            <summary>
+            上公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.down_tolerance">
+            <summary>
+            下公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.part_no">
+            <summary>
+            物料料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.material_name">
+            <summary>
+            物料名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.quantity">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.category_name">
+            <summary>
+            分类名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.machine_quantity">
+            <summary>
+            设备数量
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetTechToolList.rated_life">
+            <summary>
+            额定寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceSummary.part_no">
+            <summary>
+            物料料号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceSummary.material_name">
+            <summary>
+            物料名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceSummary.supplier">
+            <summary>
+            供应商
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoiceSummary.position">
+            <summary>
+            位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolChoice.handler_code">
+            <summary>
+            刀柄编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.EditTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Datetime">
+            <summary>
+            日期
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Changer">
+            <summary>
+            换刀人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.BlankCode">
+            <summary>
+            毛坯批号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.JigLocation">
+            <summary>
+            夹具位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.CoolantTemperature">
+            <summary>
+            冷却液温度
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.DefectLocation">
+            <summary>
+            缺陷位置
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Reason">
+            <summary>
+            可能原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Shift">
+            <summary>
+            班次
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ProductModel">
+            <summary>
+            产品型号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.MachineId">
+            <summary>
+            设备id
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.MachineName">
+            <summary>
+            产线层级
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.SectionName">
+            <summary>
+            产线名称
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.Section">
+            <summary>
+            岗位
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ToolStandardLife">
+            <summary>
+            刀具标准寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.CoolantConcentration">
+            <summary>
+            冷却液浓度
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ToolNumber">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ToollifeRest">
+            <summary>
+            刀具剩余寿命
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.StandardSize">
+            <summary>
+            标准尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.OtherQuestion">
+            <summary>
+            其他问题
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ProductionBatchNumber">
+            <summary>
+            生产批号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.JigTower">
+            <summary>
+            夹具塔号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.CoolantPressure">
+            <summary>
+            冷却液压力
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ToolLocation">
+            <summary>
+            刀位主轴编号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.DetectivePartsCount">
+            <summary>
+            缺陷零件数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ActualSize">
+            <summary>
+            实际尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.ToolBatchNumber">
+            <summary>
+            刀具批次
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.RepairMoldCount">
+            <summary>
+            修模次数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.DynamicBalanceResult">
+            <summary>
+            动平衡结果
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.TechnicalReason">
+            <summary>
+            技术员原因
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.MeasuredSize">
+            <summary>
+            实测尺寸
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToollifeExpection.OrderNumber">
+            <summary>
+            异常问题单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.flute_length">
+            <summary>
+            刃长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.flute_count">
+            <summary>
+            刃数
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.down_length">
+            <summary>
+            首下长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.reach_length">
+            <summary>
+            伸出长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.actual_diameter">
+            <summary>
+            实际直径
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.actual_length">
+            <summary>
+            实际刀长
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.upper_tolerance">
+            <summary>
+            上公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.down_tolerance">
+            <summary>
+            下公差
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolMeature.status">
+            <summary>
+            测量状态
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolScrap.status">
+            <summary>
+            1未审核 2审核通过 3 审核未通过
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.order_number">
+            <summary>
+            工单号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.create_name">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.date">
+            <summary>
+            需求时间
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.route">
+            <summary>
+            工序
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.drawcode">
+            <summary>
+            零件图纸号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetWorkorderList.havetoollist">
+            <summary>
+            是否有 清单 0没有 1有
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolWorkOrder.havetoollist">
+            <summary>
+            是否有 清单 0没有 1有
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseToolWorkOrder.route">
+            <summary>
+            工序
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Projectid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Creator">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Editor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.CreateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.Code">
+            <summary>
+            刀具号
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.ToolId1">
+            <summary>
+            刀具id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.ToolId2">
+            <summary>
+            刀具id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.HandleId1">
+            <summary>
+            刀柄id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.HandleId2">
+            <summary>
+            刀柄id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.AttachmentId1">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.AttachmentId2">
+            <summary>
+            附件id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.CutId1">
+            <summary>
+            刀头id1
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.CutId2">
+            <summary>
+            刀头id2
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.CutId3">
+            <summary>
+            刀头id3
+            </summary>
+        </member>
+        <member name="P:Siger.Middlelayer.TlmRepository.Response.ResponseGetToolConfig.CutId4">
+            <summary>
+            刀头id4
+            </summary>
+        </member>
+    </members>
+</doc>
